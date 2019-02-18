@@ -112,7 +112,7 @@ body {
     position: relative;
     padding-top: 12px;
     padding-bottom: 12px;
-    color: #fff;
+    color: #303030;
     background: color(var(--darkgrey) l(-5%)) no-repeat center center;
     background-size: cover;
 }
@@ -266,7 +266,7 @@ The knock-on effect of this is ugly browser-scroll bars at the bottom, so 80px o
     display: block;
     margin: 0;
     padding: 10px 12px;
-    color: #fff;
+    color: #303030;
     opacity: 0.8;
 }
 
